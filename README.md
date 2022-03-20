@@ -2,8 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web-development
 
-* I’m a university student
-* my QQ number is 1733455431
 
 
 
