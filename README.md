@@ -1,5 +1,5 @@
-This is meihao
-I'm learning Javascript recently.
+- This is meihao
+- I'm learning Javascript recently.
 
 
 
