@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MBR000
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web-development
+This is meihao
+I'm learning Javascript recently.
 
 
 
