@@ -1,22 +1,22 @@
-### Hi，这里是May，一只在躺和卷之间反复横跳的猫猫
+### Hi，这里是在躺和卷之间反复横跳的May
 
-我有一个[博客](https://mbr000.github.io/)，但是因为太懒，好久没更新了呜呜呜~
+我有一个[博客](https://mbr000.github.io/)，希望以后能更新它。
 
-我还有一个公众号——May的猫猫屋，会发好多好多方面的奇思妙想~
+我目前是一名前端工程师，但前端技术只是我的一部分。
 
 ### 技术栈
+![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=Typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=Javascript&logoColor=white)
+![NodeJs](https://img.shields.io/badge/-NodeJs-000?style=for-the-badge&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=vue.js&logoColor=white) 
+![AntDesign](https://img.shields.io/badge/-AntDesign-000?style=for-the-badge&logo=ant-design&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-000?style=for-the-badge&logo=yarn&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue](https://img.shields.io/badge/vue-41B783?style=for-the-badge&logo=vue&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
+![docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=white)
 
 
-
-
-<!---
-MBR000/MBR000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
