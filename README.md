@@ -2,7 +2,7 @@
 
 我有一个[博客](https://mbr000.github.io/)，希望以后能更新它。
 
-我目前是一名前端工程师，但前端技术只是我的一部分。
+目前是一名前端工程师。
 
 ### 技术栈
 ![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=Typescript&logoColor=white)
