@@ -1,4 +1,4 @@
-There's Henry May, or Hao Mei, an undergraduate student majoring in Computer Science at BUPT. I mainly focus on the area of Front-End development, and I have worked in Microsoft and Momenta as intern. If you are interested in me, don't hesitate to click the connect button on LinkedIn.
+There's Henry May, or Hao Mei, an undergraduate student majoring in Computer Science at BUPT. I mainly focus on the area of Front-End development, and I have worked in Microsoft and Momenta as intern. 
 
 Technology Stacks
 
