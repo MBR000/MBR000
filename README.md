@@ -1,10 +1,6 @@
-### Hi，这里是在躺和卷之间反复横跳的May
+There's Henry May, or Hao Mei, an undergraduate student majoring in Computer Science at BUPT. I mainly focus on the area of Front-End development, and I have worked in Microsoft and Momenta as intern. If you are interested in me, don't hesitate to click the connect button on LinkedIn.
 
-我有一个[博客](https://mbr000.github.io/)，希望以后能更新它。
-
-目前是一名前端工程师。
-
-### 技术栈
+Technology Stacks
 ![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=Typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=Javascript&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-000?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -19,7 +15,7 @@
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
 ![docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=white)
 
-### 统计记录
+Github Recordings
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBR000&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBR000&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
