@@ -10,11 +10,11 @@ Technology Stacks
 ![AntDesign](https://img.shields.io/badge/-AntDesign-000?style=for-the-badge&logo=ant-design&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=white)
-![WebPack](https://img.shields.io/badge/WebPack-000?style=for-the-badge&logo=css3&logoColor=white)
+![WebPack](https://img.shields.io/badge/WebPack-000?style=for-the-badge&logo=webpack&logoColor=white)
 
 ![npm](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-000?style=for-the-badge&logo=yarn&logoColor=white)
-![pnpm](https://img.shields.io/badge/-Pnpm-000?style=for-the-badge&logo=docker&logoColor=white)
+![pnpm](https://img.shields.io/badge/-Pnpm-000?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
 ![docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=white)
