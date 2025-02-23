@@ -1,4 +1,4 @@
-There's Henry May, or Hao Mei, a SDE now working at Alibaba for Front-End development. I graduated from School of Computer Science at BUPT, and I have worked at Microsoft and Momenta as intern. 
+There's Henry May, or Hao Mei, a SDE now working at Alibaba for Front-End development. I graduate from School of Computer Science at BUPT, and I have worked at Microsoft and Momenta as intern. 
 
 Technology Stacks
 
