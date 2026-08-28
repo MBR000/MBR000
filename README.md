@@ -1,1 +1,1 @@
-I am Henry May, also known as MEI HAO. I am currently a Software Development Engineer at Alibaba. I graduated from Beijing University of Posts and Telecommunications (BUPT) with a degree in Computer Science. Prior to my current role, I gained valuable experience through internships at Microsoft and Momenta.
+I'm Henry May (MEI HAO). I was a Software Development Engineer at Alibaba and interned at Microsoft and Momenta before that. I studied computer science at Beijing University of Posts and Telecommunications (BUPT).
